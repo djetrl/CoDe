@@ -51,7 +51,7 @@ td,th{padding:0}
 @font-face {
 
   font-family: "gilroy-regualr"; 
-  src: url(".https://djetrl.github.io/CoDe/asset/fonts/gilroy-regular.ttf") format("truetype"); 
+  src: url("./CoDe/asset/fonts/gilroy-regular.ttf") format("truetype"); 
 } 
 body{
   background: #F9F8FD;
